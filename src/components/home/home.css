@@ -1,0 +1,34 @@
+.home_background{
+    text-align: center;
+}
+
+.home_body{
+    background-color: whitesmoke;
+}
+
+.home_img_div{
+    align-content: center;
+    /* background-color:aquamarine; */
+    padding:1rem;
+ }
+
+.home_img{
+    width: 10rem;
+    height: 10rem;
+    border-radius: 50%;
+
+}
+
+.home_description{
+    /* background-color: aquamarine; */
+    margin: 1rem;
+    padding: 1rem;
+}
+
+.home_description h4{
+    color: black;
+}
+
+.home_description p{
+    color: black;
+}

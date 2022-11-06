@@ -1,0 +1,36 @@
+
+.header{
+    text-decoration: none;
+}
+
+.header ul{
+    list-style-type: none;
+    display:flex;
+    align-items: center;
+}
+.header ul li{
+
+}
+
+.header ul li a{
+    font-size: large;
+    margin: 3rem;
+    text-decoration: none;
+}
+.header ul li a:active{
+    color: tomato;
+}
+
+.header ul li a:visited { 
+    text-decoration: none; 
+   }
+
+.header_buttom{
+    background-color: tomato;
+    height: 0.4rem;
+}
+
+.header .logo_img{
+    width: 6rem;
+    height: 3rem;
+}
