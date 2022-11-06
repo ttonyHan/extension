@@ -4,8 +4,7 @@ import Profile_img from "../../img/profile_pic.jpeg"
 
 const home=()=>{
     return(
-        <div className="home_background">
-           
+        <div className="home_background"> 
             <div className="home_body">
                 <div className="home_img_div">
                     <img className="home_img" src={Profile_img}/>

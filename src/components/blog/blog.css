@@ -1,0 +1,42 @@
+.blog_body{
+    background-color: whitesmoke;
+    height: 43%;
+    margin: 40px;
+    border-radius: 2%;
+    box-shadow: rgb(0 0 0 / 4%) 0px 4px 16px 0px;
+}
+
+.blog_main{
+    /* background-color: bisque;    */
+    border-width: 1rem;
+    border-color: black;
+    width: 25rem;
+    height: 25rem;
+    border-radius: 1%; 
+    margin: 1rem;
+}
+
+.blog_pic_div{
+    padding: 1rem;
+    /* margin: 0.5rem; */
+    width: 100%;
+    height: 12rem;
+    border-radius: 2%;
+    background-color: gray;
+}
+
+.blog_main .blog_details .blog_title h4{
+    font-size: large;
+    font-weight: bold;
+    padding: 10px;
+}
+
+.blog_details{
+    padding: 0;
+    margin: 0.5rem;
+    background-color: whitesmoke;
+}
+.blog_timeline p{
+    font-size: smaller;
+    color: gray;
+}
