@@ -23,7 +23,6 @@ const blog = () =>{
                         <p>5일전 </p>
                     </div>
                 </div>
- 
             </div>
         </div>
     )
